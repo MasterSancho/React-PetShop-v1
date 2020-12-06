@@ -1,6 +1,5 @@
 const products = [
     {
-        _id: '1',
         name: 'נטורל אנד דלישס דג בקלה חתול בוגר 1.5 ק"ג',
         image: '/images/cat_1.jpg',
         description:
@@ -13,7 +12,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id: '2',
         name: 'נטורל אנד דלישס כבש ואוכמניות חתול בוגר 1.5 ק"ג',
         image: '/images/cat_2.jpg',
         description:
@@ -26,7 +24,6 @@ const products = [
         numReviews: 8,
     },
     {
-        _id: '3',
         name: 'גוסבי אקסלוסיב גורים גזע קטן 2 ק"ג',
         image: '/images/dog_3.jpg',
         description:
@@ -39,7 +36,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id: '4',
         name: 'גוסבי אקסלוסיב עוף מדיום 12 ק"ג',
         image: '/images/dog_4.jpg',
         description:
@@ -52,7 +48,6 @@ const products = [
         numReviews: 12,
     },
     {
-        _id: '5',
         name: 'סיבאו בוגר עוף 12 ק"ג',
         image: '/images/dog_5.jpg',
         description: 'מזון מלא ומאוזן לכלבים בוגרים מגזע קטן',
@@ -64,7 +59,6 @@ const products = [
         numReviews: 10,
     },
     {
-        _id: '6',
         name: 'אוונט קלאסיק קומפלט 15 ק"ג',
         image: '/images/dog_6.jpg',
         description: 'מזון מלא ומאוזן לכלבים בוגרים מגזע קטן',
